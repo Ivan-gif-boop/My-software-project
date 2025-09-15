@@ -24,7 +24,7 @@ class forms {
     <input type='text' id='username' name='username' required><br><br>
     <label for='password'>Password:</label>
     <input type='password' id='password' name='password' required><br><br>
-    <?php echo $this->submit_button('Sign In'); ?> <a href='./'>Don't have an account? Sign up</a>
+    <?php echo $this->submit_button('Sign In'); ?> <a href='./'>Don't have an account? Sign up for one</a>
 </form>
 <?php
     }

@@ -1,0 +1,17 @@
+{
+    "name": "wachi/fol",
+    "autoload": {
+        "psr-4": {
+            "Wachi\\Fol\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan-gif-boop",
+            "email": "Ivan.wachira@strathmore.edu"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
